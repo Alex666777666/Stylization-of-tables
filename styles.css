@@ -12,7 +12,7 @@ th {
   border: 1px solid black;
   border-collapse: collapse;
   /* border-spacing: 10px;*/
-  line-height: 40px;
+  height: 40px;
 }
 td,
 th {
@@ -29,7 +29,7 @@ tfoot {
   font-weight: 700;
 }
 caption {
-  margin-bottom: -8px;
+  margin-bottom: 8px;
 }
 tbody > tr:nth-child(odd) {
   background-color: #f2f2f2;
