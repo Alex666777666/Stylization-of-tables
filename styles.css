@@ -3,7 +3,7 @@
 }
 table {
   width: 500px;
-  margin: 32px;
+  margin: 16px;
   font-family: Arial, Helvetica, sans-serif;
 }
 table,
@@ -29,7 +29,7 @@ tfoot {
   font-weight: 700;
 }
 caption {
-  margin: 8px;
+  margin-bottom: 8px;
 }
 tbody > tr:nth-child(odd) {
   background-color: #f2f2f2;
